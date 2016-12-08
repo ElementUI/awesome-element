@@ -10,7 +10,6 @@
 - [Themes](#themes)
 - [Articles](#articles)
 - [Boilerplates](#boilerplates)
-  - [vue fullstack](https://github.com/erguotou520/vue-fullstack/) A `vue` fullstack template to work with `vue cli`
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -23,6 +22,8 @@
 ## Articles
 
 ## Boilerplates
+
+- [vue fullstack](https://github.com/erguotou520/vue-fullstack/) A `vue` fullstack template to work with `vue cli`
 
 ## Contribute
 
