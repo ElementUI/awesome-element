@@ -26,6 +26,7 @@
 ## Boilerplates
 
 - [vue fullstack](https://github.com/erguotou520/vue-fullstack/) A `vue` fullstack template to work with `vue cli`
+- [vueAdmin](https://github.com/taylorchen709/vueAdmin/) Admin template based on Vue 2.x and Element
 
 ## Contribute
 
