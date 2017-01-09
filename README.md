@@ -29,6 +29,7 @@
 - [vueAdmin](https://github.com/taylorchen709/vueAdmin/) Admin template based on Vue 2.x and Element
 - [vue-ele-starter](https://github.com/jikkai/vue-ele-starter) A simple Vue2 + Webpack2 + Element/Mint setup template for quick prototyping
 - [EleAdmin](https://git.oschina.net/bfgdqch/EleAdmin) 饿了么前端搭建的配置化后台 
+- [element-admin](https://github.com/lynzz/element-admin) 一个支持 vue-cli、mock 接口的 Element UI 的后台模板
 
 ## Contribute
 
