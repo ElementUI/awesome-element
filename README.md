@@ -36,7 +36,8 @@
 - [Vue-Element-Starter](https://github.com/Metnew/vue-element-starter) - Robust, simple Vue starter with Element-UI.
 
 ## Components
- - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) vue2.0 datatables，based on element-ui, el-table + el-pagination + filter + sort
+- [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) vue2.0 datatables, based on element-ui, el-table + el-pagination + filter + sort
+- [TreeManager](https://github.com/Kuaizi-co/TreeManager) Tree 组件无限级分类管理扩展
 
 
 ## Contribute
