@@ -34,7 +34,8 @@
 - [element-admin](https://github.com/lynzz/element-admin) 一个支持 vue-cli、mock 接口的 Element UI 的后台模板
 
 ## Components
- - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) vue2.0 datatables，based on element-ui, el-table + el-pagination + filter + sort
+- [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) vue2.0 datatables, based on element-ui, el-table + el-pagination + filter + sort
+- [TreeManager](https://github.com/Kuaizi-co/TreeManager) Tree 组件无限级分类管理扩展
 
 
 ## Contribute
