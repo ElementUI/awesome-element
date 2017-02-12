@@ -32,6 +32,7 @@
 - [vue-ele-starter](https://github.com/jikkai/vue-ele-starter) A simple Vue2 + Webpack2 + Element/Mint setup template for quick prototyping
 - [EleAdmin](https://git.oschina.net/bfgdqch/EleAdmin) 饿了么前端搭建的配置化后台 
 - [element-admin](https://github.com/lynzz/element-admin) 一个支持 vue-cli、mock 接口的 Element UI 的后台模板
+- [Vue-Element-Starter](https://github.com/Metnew/vue-element-starter) - Robust, simple Vue starter with Element-UI.
 
 ## Components
  - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) vue2.0 datatables，based on element-ui, el-table + el-pagination + filter + sort
