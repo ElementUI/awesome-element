@@ -24,13 +24,14 @@
 
 - [element-theme-default syntax analysis](https://github.com/Molunerfinn/theme-default/) A syntax analysis on `element-theme-default`
 - [Element 源码分析](http://www.jianshu.com/c/c71f9c127c71) A blog series of Element code analysis
+- [element-color](https://github.com/MIKUScallion/element-color) An element theme's color analysis and palette tool
 
 ## Boilerplates
 
 - [vue fullstack](https://github.com/erguotou520/vue-fullstack/) A `vue` fullstack template to work with `vue cli`
 - [vueAdmin](https://github.com/taylorchen709/vueAdmin/) Admin template based on Vue 2.x and Element
 - [vue-ele-starter](https://github.com/jikkai/vue-ele-starter) A simple Vue2 + Webpack2 + Element/Mint setup template for quick prototyping
-- [EleAdmin](https://git.oschina.net/bfgdqch/EleAdmin) 饿了么前端搭建的配置化后台 
+- [EleAdmin](https://git.oschina.net/bfgdqch/EleAdmin) 饿了么前端搭建的配置化后台
 - [element-admin](https://github.com/lynzz/element-admin) 一个支持 vue-cli、mock 接口的 Element UI 的后台模板
 - [Vue-Element-Starter](https://github.com/Metnew/vue-element-starter) - Robust, simple Vue starter with Element-UI.
 
