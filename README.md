@@ -18,6 +18,8 @@
 
 ## Projects
 
+- [zce/dashboard](https://github.com/zce/dashboard) A dashboard scaffolding based on vue.js, inspired by vuejs-templates/webpack. 
+
 ## Themes
 
 ## Articles
