@@ -8,6 +8,7 @@
 
 - [Projects](#projects)
 - [Themes](#themes)
+- [Tools](#tools)
 - [Articles](#articles)
 - [Boilerplates](#boilerplates)
 - [Components](#components)
@@ -21,6 +22,10 @@
 - [zce/dashboard](https://github.com/zce/dashboard) A dashboard scaffolding based on vue.js, inspired by vuejs-templates/webpack. 
 
 ## Themes
+
+## Tools
+
+- [vue-element-ui-snippets](https://github.com/solobat/vue-element-ui-snippets) An Atom plugin providing snippets for Element
 
 ## Articles
 
