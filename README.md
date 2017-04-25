@@ -19,7 +19,7 @@
 
 ## Projects
 
-- [zce/dashboard](https://github.com/zce/dashboard) A dashboard scaffolding based on vue.js, inspired by vuejs-templates/webpack. 
+- [zce/dashboard](https://github.com/zce/dashboard) A dashboard scaffolding based on vue.js, inspired by vuejs-templates/webpack.
 
 ## Themes
 
@@ -41,6 +41,7 @@
 - [EleAdmin](https://git.oschina.net/bfgdqch/EleAdmin) 饿了么前端搭建的配置化后台
 - [element-admin](https://github.com/lynzz/element-admin) 一个支持 vue-cli、mock 接口的 Element UI 的后台模板
 - [Vue-Element-Starter](https://github.com/Metnew/vue-element-starter) - Robust, simple Vue starter with Element-UI.
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - A management system template.
 
 ## Components
 - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) vue2.0 datatables, based on element-ui, el-table + el-pagination + filter + sort
