@@ -46,6 +46,7 @@
 ## Components
 - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) vue2.0 datatables, based on element-ui, el-table + el-pagination + filter + sort
 - [TreeManager](https://github.com/Kuaizi-co/TreeManager) Tree 组件无限级分类管理扩展
+- [el-table-plus](https://github.com/chikara-chan/el-table-plus) A high-level table component, integrating el-table and el-pagination of Element UI.
 
 
 ## Contribute
