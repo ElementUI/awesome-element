@@ -25,6 +25,7 @@
 
 ## Tools
 
+- [element-helper](https://github.com/ElemeFE/element-helper) An Atom plugin providing document, autocomplete, snippets for Element
 - [vue-element-ui-snippets](https://github.com/solobat/vue-element-ui-snippets) An Atom plugin providing snippets for Element
 
 ## Articles
