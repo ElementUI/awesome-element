@@ -20,6 +20,7 @@
 ## Projects
 
 - [zce/dashboard](https://github.com/zce/dashboard) A dashboard scaffolding based on vue.js, inspired by vuejs-templates/webpack.
+- [app.idealspot.com](https://app.idealspot.com) A commercial real estate site selection platform built with vue.js, based on vuejs-templates/webpack.
 
 ## Themes
 
