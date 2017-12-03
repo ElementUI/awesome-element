@@ -21,6 +21,7 @@
 
 - [zce/dashboard](https://github.com/zce/dashboard) A dashboard scaffolding based on vue.js, inspired by vuejs-templates/webpack.
 - [app.idealspot.com](https://app.idealspot.com) A commercial real estate site selection platform built with vue.js, based on vuejs-templates/webpack.
+- [Tipe.io](https://tipe.io) Next Generation API-first CMS built in Vue, Nuxt, and Element. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
 
 ## Themes
 
