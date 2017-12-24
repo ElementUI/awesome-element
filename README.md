@@ -54,6 +54,7 @@
 - [TreeManager](https://github.com/Kuaizi-co/TreeManager) Tree 组件无限级分类管理扩展
 - [el-table-plus](https://github.com/chikara-chan/el-table-plus) A high-level table component, integrating el-table and el-pagination of Element UI.
 - [el-search-table-pagination](https://github.com/zollero/el-search-table-pagination) Combines Form, Table and Pagination components of Element UI together. Based on Vue 2.x. ([Detail](https://mp.weixin.qq.com/s/r_OumEQB79lpEETThHA70g))
+- [element-ui-verify](https://github.com/aweiu/element-ui-verify) 对 Element 原本的校验方式做了一层封装，提升校验体验，非侵入式，完全不会影响你继续使用 Element 的原生校验
 
 
 ## Contribute
