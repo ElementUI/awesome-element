@@ -56,6 +56,7 @@
 - [el-table-plus](https://github.com/chikara-chan/el-table-plus) A high-level table component, integrating el-table and el-pagination of Element UI.
 - [el-search-table-pagination](https://github.com/zollero/el-search-table-pagination) Combines Form, Table and Pagination components of Element UI together. Based on Vue 2.x. ([Detail](https://mp.weixin.qq.com/s/r_OumEQB79lpEETThHA70g))
 - [element-ui-verify](https://github.com/aweiu/element-ui-verify) 对 Element 原本的校验方式做了一层封装，提升校验体验，非侵入式，完全不会影响你继续使用 Element 的原生校验
+- [el-form-renderer](https://github.com/leezng/el-form-renderer) A Form Renderer 基于 Element 的表单渲染器，在完整继承 el-form 的基础上进行简单扩展，从而用户能够通过使用一段预设的数据渲染出一个完整的 element 表单
 
 
 ## Contribute
