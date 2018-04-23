@@ -53,6 +53,7 @@
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - A management system template.
 - [vue-chart-stater-kit](https://github.com/joshua1988/vue-chart-starter-kit) - Quick starter using Vue Router, Vue Chart, Element-UI.
 - [Vue-Access-Control](https://github.com/tower1229/Vue-Access-Control) Frontend access control framework based Vue (Vue权限管理解决方案).
+- [laravel_template_with_vue](https://github.com/wmhello/laravel_template_with_vue) laravel template with vue.js based on element ui (vue与laravel结合使用的前后端分离的开发模板).
 
 ## Components
 - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) vue2.0 datatables, based on element-ui, el-table + el-pagination + filter + sort
