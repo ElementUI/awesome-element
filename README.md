@@ -31,6 +31,7 @@
 - [vscode-element-helper](https://github.com/ElemeFE/vscode-element-helper) An VSCode version of element-helper
 - [vue-element-ui-snippets](https://github.com/solobat/vue-element-ui-snippets) An Atom plugin providing snippets for Element
 - [Element-UI-Snippets-ST](https://github.com/snowffer/Element-UI-Snippets-ST) A group of Sublime Text code snippets for Element-UI
+- [Element-UI-Snippets-VSCode](https://github.com/snowffer/Element-UI-Snippets-VSCode) A group of VS Code code snippets for Element-UI
 - [element-ui-scaffold](https://scaffoldhub.io/vue-sample) Vue 2 with Element-UI CRUD scaffold/generator.
 - [element-ui-firebase-scaffold](https://scaffoldhub.io/vue-firebase) Vue 2, Element-UI and Firebase scaffold/generator with CRUDs, authentication, file/image upload, activity log and more.
 
@@ -49,10 +50,11 @@
 - [vue-ele-starter](https://github.com/jikkai/vue-ele-starter) A simple Vue2 + Webpack2 + Element/Mint setup template for quick prototyping
 - [EleAdmin](https://git.oschina.net/bfgdqch/EleAdmin) 饿了么前端搭建的配置化后台
 - [element-admin](https://github.com/lynzz/element-admin) 一个支持 vue-cli、mock 接口的 Element UI 的后台模板
-- [Vue-Element-Starter](https://github.com/Metnew/vue-element-starter) - Robust, simple Vue starter with Element-UI.
-- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - A management system template.
-- [vue-chart-stater-kit](https://github.com/joshua1988/vue-chart-starter-kit) - Quick starter using Vue Router, Vue Chart, Element-UI.
-- [Vue-Access-Control](https://github.com/tower1229/Vue-Access-Control) Frontend access control framework based Vue (Vue权限管理解决方案).
+- [Vue-Element-Starter](https://github.com/Metnew/vue-element-starter) - Robust, simple Vue starter with Element-UI
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - A management system template
+- [vue-chart-stater-kit](https://github.com/joshua1988/vue-chart-starter-kit) - Quick starter using Vue Router, Vue Chart, Element-UI
+- [Vue-Access-Control](https://github.com/tower1229/Vue-Access-Control) Frontend access control framework based Vue (Vue权限管理解决方案)
+- [laravel-template-with-vue](https://github.com/wmhello/laravel_template_with_vue) Laravel template with Vue.js based on Element (Vue 与 Laravel 结合使用的前后端分离的开发模板)
 
 ## Components
 - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) vue2.0 datatables, based on element-ui, el-table + el-pagination + filter + sort
