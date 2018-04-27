@@ -41,6 +41,7 @@
 - [element-theme-default syntax analysis](https://github.com/Molunerfinn/theme-default/) A syntax analysis on `element-theme-default`
 - [Element 源码分析](http://www.jianshu.com/c/c71f9c127c71) A blog series of Element code analysis
 - [element-color](https://github.com/MIKUScallion/element-color) An element theme's color analysis and palette tool
+- [Tutorial](https://vue-firebase.com/tutorial.html) Building a Library Management app with Vue, Firebase, Element-UI and Scaffoldhub
 
 ## Boilerplates
 
