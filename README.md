@@ -22,6 +22,7 @@
 - [zce/dashboard](https://github.com/zce/dashboard) A dashboard scaffolding based on vue.js, inspired by vuejs-templates/webpack.
 - [app.idealspot.com](https://app.idealspot.com) A commercial real estate site selection platform built with vue.js, based on vuejs-templates/webpack.
 - [Tipe.io](https://tipe.io) Next Generation API-first CMS built in Vue, Nuxt, and Element. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
+- [Cotabox](https://cotabox.com.br) A commercial platform for supply chain and B2B sell's.
 
 ## Themes
 
@@ -55,6 +56,7 @@
 - [vue-chart-stater-kit](https://github.com/joshua1988/vue-chart-starter-kit) - Quick starter using Vue Router, Vue Chart, Element-UI
 - [Vue-Access-Control](https://github.com/tower1229/Vue-Access-Control) Frontend access control framework based Vue (Vue权限管理解决方案)
 - [laravel-template-with-vue](https://github.com/wmhello/laravel_template_with_vue) Laravel template with Vue.js based on Element (Vue 与 Laravel 结合使用的前后端分离的开发模板)
+- [nuxt-element-apollo](https://github.com/kavalcante/nuxt-element-apollo) Nuxt + Element (with Custom Theme) + Apollo up to date.
 
 ## Components
 - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) vue2.0 datatables, based on element-ui, el-table + el-pagination + filter + sort
