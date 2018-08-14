@@ -5,11 +5,11 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Projects](#projects)
 - [Themes](#themes)
 - [Tools](#tools)
 - [Articles](#articles)
+- [Vue CLI Plugins](#vue-cli-plugins)
 - [Boilerplates](#boilerplates)
 - [Components](#components)
 - [Contribute](#contribute)
@@ -36,13 +36,16 @@
 - [element-ui-scaffold](https://scaffoldhub.io/vue-sample) Vue 2 with Element-UI CRUD scaffold/generator.
 - [element-ui-firebase-scaffold](https://scaffoldhub.io/vue-firebase) Vue 2, Element-UI and Firebase scaffold/generator with CRUDs, authentication, file/image upload, activity log and more.
 
-
 ## Articles
 
 - [element-theme-default syntax analysis](https://github.com/Molunerfinn/theme-default/) A syntax analysis on `element-theme-default`
 - [Element 源码分析](http://www.jianshu.com/c/c71f9c127c71) A blog series of Element code analysis
 - [element-color](https://github.com/MIKUScallion/element-color) An element theme's color analysis and palette tool
 - [Tutorial](https://vue-firebase.com/tutorial.html) Building a Library Management app with Vue, Firebase, Element-UI and Scaffoldhub
+
+## Vue CLI Plugins
+
+- [vue-cli-plugin-element](https://github.com/ElementUI/vue-cli-plugin-element) Element plugin for vue-cli
 
 ## Boilerplates
 
@@ -66,7 +69,6 @@
 - [element-ui-verify](https://github.com/aweiu/element-ui-verify) 对 Element 原本的校验方式做了一层封装，提升校验体验，非侵入式，完全不会影响你继续使用 Element 的原生校验
 - [el-form-renderer](https://github.com/leezng/el-form-renderer) A Form Renderer 基于 Element 的表单渲染器，在完整继承 el-form 的基础上进行简单扩展，从而用户能够通过使用一段预设的数据渲染出一个完整的 element 表单
 - [el-payment-combo](https://codepen.io/abensur/pen/oELwxd) A simple payment combo input.
-
 
 ## Contribute
 
