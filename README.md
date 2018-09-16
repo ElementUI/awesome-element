@@ -29,6 +29,7 @@
 ## Tools
 
 - [element-helper](https://github.com/ElemeFE/element-helper) An Atom plugin providing document, autocomplete, snippets for Element
+- [webpack-theme-color-replacer](https://github.com/hzsrc/webpack-theme-color-replacer) A webpack plugin to extract theme color styles (sucn as element-ui theme colors) to a file. You can download this css file, and then replace the colors into new customized colors dynamicly.
 - [vscode-element-helper](https://github.com/ElemeFE/vscode-element-helper) An VSCode version of element-helper
 - [vue-element-ui-snippets](https://github.com/solobat/vue-element-ui-snippets) An Atom plugin providing snippets for Element
 - [Element-UI-Snippets-ST](https://github.com/snowffer/Element-UI-Snippets-ST) A group of Sublime Text code snippets for Element-UI
