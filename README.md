@@ -43,6 +43,11 @@
 - [element-color](https://github.com/MIKUScallion/element-color) An element theme's color analysis and palette tool
 - [Tutorial](https://vue-firebase.com/tutorial.html) Building a Library Management app with Vue, Firebase, Element-UI and Scaffoldhub
 
+## Vue Plugins
+
+- [vee-element](https://github.com/davestewart/vee-element) Replaces Element UI's validation engine with Vee Validate
+
+
 ## Vue CLI Plugins
 
 - [vue-cli-plugin-element](https://github.com/ElementUI/vue-cli-plugin-element) Element plugin for vue-cli
