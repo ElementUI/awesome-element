@@ -33,6 +33,7 @@
 - [vue-element-ui-snippets](https://github.com/solobat/vue-element-ui-snippets) An Atom plugin providing snippets for Element
 - [Element-UI-Snippets-ST](https://github.com/snowffer/Element-UI-Snippets-ST) A group of Sublime Text code snippets for Element-UI
 - [Element-UI-Snippets-VSCode](https://github.com/snowffer/Element-UI-Snippets-VSCode) A group of VS Code code snippets for Element-UI
+- [Vue-Element-Snippets-Vim](https://github.com/sangdth/vue-element-snippets) UltiSnip code snippets for Vue Element-UI in Vim.
 - [element-ui-scaffold](https://scaffoldhub.io/vue-sample) Vue 2 with Element-UI CRUD scaffold/generator.
 - [element-ui-firebase-scaffold](https://scaffoldhub.io/vue-firebase) Vue 2, Element-UI and Firebase scaffold/generator with CRUDs, authentication, file/image upload, activity log and more.
 
