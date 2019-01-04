@@ -46,6 +46,7 @@
 ## Vue CLI Plugins
 
 - [vue-cli-plugin-element](https://github.com/ElementUI/vue-cli-plugin-element) Element plugin for vue-cli
+- [@codetrial/vue-cli-plugin-element](https://github.com/codetrial/vue-cli-plugin-element) Vue CLI 3 Plugin to build an enterprise application with element-ui in seconds
 
 ## Boilerplates
 
@@ -60,6 +61,7 @@
 - [Vue-Access-Control](https://github.com/tower1229/Vue-Access-Control) Frontend access control framework based Vue (Vue权限管理解决方案)
 - [laravel-template-with-vue](https://github.com/wmhello/laravel_template_with_vue) Laravel template with Vue.js based on Element (Vue 与 Laravel 结合使用的前后端分离的开发模板)
 - [nuxt-element-apollo](https://github.com/kavalcante/nuxt-element-apollo) Nuxt + Element (with Custom Theme) + Apollo up to date.
+- [@codetrial/element-admin](https://github.com/codetrial/element-admin) A dead simple but powerful vue admin with Vue CLI 3 and ElementUI.
 
 ## Components
 - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) vue2.0 datatables, based on element-ui, el-table + el-pagination + filter + sort
@@ -69,6 +71,7 @@
 - [element-ui-verify](https://github.com/aweiu/element-ui-verify) 对 Element 原本的校验方式做了一层封装，提升校验体验，非侵入式，完全不会影响你继续使用 Element 的原生校验
 - [el-form-renderer](https://github.com/leezng/el-form-renderer) A Form Renderer 基于 Element 的表单渲染器，在完整继承 el-form 的基础上进行简单扩展，从而用户能够通过使用一段预设的数据渲染出一个完整的 element 表单
 - [el-payment-combo](https://codepen.io/abensur/pen/oELwxd) A simple payment combo input.
+- [element-form-builder](https://github.com/codetrial/element-form-builder) Build element-ui forms with JSON schema.
 
 ## Contribute
 
