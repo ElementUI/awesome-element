@@ -23,6 +23,7 @@
 - [app.idealspot.com](https://app.idealspot.com) A commercial real estate site selection platform built with vue.js, based on vuejs-templates/webpack.
 - [Tipe.io](https://tipe.io) Next Generation API-first CMS built in Vue, Nuxt, and Element. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
 - [Cotabox](https://cotabox.com.br) A commercial platform for supply chain and B2B sell's.
+- [Eplee](https://github.com/Janglee123/eplee) Sweet, simple epub reader made with vuejs and element-ui. 
 
 ## Themes
 
