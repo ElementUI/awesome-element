@@ -69,6 +69,7 @@
 - [element-ui-verify](https://github.com/aweiu/element-ui-verify) 对 Element 原本的校验方式做了一层封装，提升校验体验，非侵入式，完全不会影响你继续使用 Element 的原生校验
 - [el-form-renderer](https://github.com/leezng/el-form-renderer) A Form Renderer 基于 Element 的表单渲染器，在完整继承 el-form 的基础上进行简单扩展，从而用户能够通过使用一段预设的数据渲染出一个完整的 element 表单
 - [el-payment-combo](https://codepen.io/abensur/pen/oELwxd) A simple payment combo input.
+- [vue-ele-form](https://github.com/dream2023/vue-ele-form/) 数据驱动表单组件, 内置 20 多种实用表单项和丰富的第三方组件(富文本, markdown 编辑器, 地图等), 同时实现了表单校检、表单布局、响应式表单等功能, 提升代码优雅度和开发效率.
 
 ## Contribute
 
