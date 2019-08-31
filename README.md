@@ -70,6 +70,9 @@
 - [el-form-renderer](https://github.com/leezng/el-form-renderer) A Form Renderer 基于 Element 的表单渲染器，在完整继承 el-form 的基础上进行简单扩展，从而用户能够通过使用一段预设的数据渲染出一个完整的 element 表单
 - [el-payment-combo](https://codepen.io/abensur/pen/oELwxd) A simple payment combo input.
 
+## Directives
+- [v-element-table-header](https://github.com/ZhanYishu/blog) 一个随父级元素的滚动位置自动显示与隐藏表格头部的指令
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
