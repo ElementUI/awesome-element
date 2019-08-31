@@ -71,7 +71,7 @@
 - [el-payment-combo](https://codepen.io/abensur/pen/oELwxd) A simple payment combo input.
 
 ## Directives
-- [v-element-table-header](https://github.com/ZhanYishu/blog) 一个随父级元素的滚动位置自动显示与隐藏表格头部的指令
+- [v-element-table-header](https://github.com/ZhanYishu/v-element-table-header) 一个随父级元素的滚动位置自动显示与隐藏表格头部的指令
 
 ## Contribute
 
