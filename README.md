@@ -35,6 +35,7 @@
 - [Element-UI-Snippets-VSCode](https://github.com/snowffer/Element-UI-Snippets-VSCode) A group of VS Code code snippets for Element-UI
 - [element-ui-scaffold](https://scaffoldhub.io/vue-sample) Vue 2 with Element-UI CRUD scaffold/generator.
 - [element-ui-firebase-scaffold](https://scaffoldhub.io/vue-firebase) Vue 2, Element-UI and Firebase scaffold/generator with CRUDs, authentication, file/image upload, activity log and more.
+- [fuep](http://fuep.net/) is a visual layout tool based on element plus
 
 ## Articles
 
